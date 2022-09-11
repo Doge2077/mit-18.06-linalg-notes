@@ -70,7 +70,7 @@ plt.draw()
 plt.close(fig)
 ```
 
-如图，绿向量$col_1$与蓝向量（两倍的蓝绿向量$col_2$）合成红向量$b$。
+如图，绿向量$col_1$与蓝向量（两倍的绿向量$col_2$）合成红向量$b$。
 
 接着，我们继续观察$x\begin{bmatrix}2\\-1\end{bmatrix}+y\begin{bmatrix}-1\\2\end{bmatrix}=\begin{bmatrix}0\\3\end{bmatrix}$，$col_1,col_2$的某种线性组合得到了向量$b$，那么$col_1,col_2$的所有线性组合能够得到什么结果？它们将铺满整个平面。
 
